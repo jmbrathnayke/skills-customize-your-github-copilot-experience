@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "unit-testing-unittest",
+      "title": "Introduction to Unit Testing with Unittest",
+      "description": "Learn to write unit tests using Python's unittest framework to verify code behavior, catch bugs, and practice test-driven development.",
+      "path": "assignments/unit-testing-unittest",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
