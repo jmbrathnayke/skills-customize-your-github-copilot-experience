@@ -15,11 +15,12 @@ Write a function called `welcome_message()` that interacts with the user and ret
 #### Requirements
 Completed program should:
 
-- Ask the user for their name, age, and favorite color using `input()`.
-- Return a welcome message formatted as:
-  `Hello, [name]! You are [age] years old and your favorite color is [color].`
-- Example output:
-  `Hello, Alice! You are 25 years old and your favorite color is blue.`
+- Ask the user for their name, age, and favorite color using `input()`
+- Return a welcome message formatted as: `Hello, [name]! You are [age] years old and your favorite color is [color].`
+- Handle the example correctly:
+  ```
+  Hello, Alice! You are 25 years old and your favorite color is blue.
+  ```
 
 ### 🛠️ Basic Arithmetic
 
@@ -29,12 +30,14 @@ Write a function called `add_two_numbers()` that prompts the user for two number
 #### Requirements
 Completed program should:
 
-- Ask the user to enter two numbers.
-- Add the numbers together.
-- Print the result. Example:
+- Ask the user to enter two numbers
+- Add the numbers together
+- Print the result:
+  ```
   Enter the first number: 3
   Enter the second number: 7
   10
+  ```
 
 ### 🛠️ Conditional Statements
 
